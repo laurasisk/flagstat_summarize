@@ -4,8 +4,12 @@
 
 # Directions
 1. Clone this repository or download flagstat_summarize.py
-2. Move flagstat_summarize.py into the directory with the samtools flagstat output .tsv files. See example_files folder in this repository to see how these files should look.
-3. Make the file executable
+To clone:
+```
+git clone https://github.com/laurasisk/flagstat_summarize
+```
+3. Move flagstat_summarize.py into the directory with the samtools flagstat output .tsv files. See example_files folder in this repository to see how these files should look.
+4. Make the file executable
 ```
 chmod +x flagstat_summarize.py
 ```
