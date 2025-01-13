@@ -53,7 +53,7 @@ combo_df.head()
 
 #calculate means for each row
 combo_df_mean = combo_df.copy()
-combo_df_mean['average'] = combo_df.mean(axis=1)
+combo_df_mean['mean'] = combo_df.mean(axis=1)
 
 #to csv
 combo_df_mean.to_csv('flagstat_results_summary.csv')
