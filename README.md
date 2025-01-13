@@ -1,2 +1,2 @@
 # flagstat_summarize
-Summarize flagstat files from the samtools flagstat command 
+ Purpose: Summarize many flagstat files created from the samtools flagstat command 
