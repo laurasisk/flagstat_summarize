@@ -1,5 +1,5 @@
 # flagstat_summarize
- Purpose: For many samtools flagstat output files, this script will concatenate the data in each file and calculate the mean for all files. The output is a .csv file. 
+ Purpose: This script will concatenate the data in multiple samtools flagstat files and calculate the mean for all files. The output is a .csv file. 
 
 
 # Directions
